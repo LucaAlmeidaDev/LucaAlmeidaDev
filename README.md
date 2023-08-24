@@ -3,7 +3,6 @@
 
 - 🌱 Estudando React Js.
 - 🎓 Cursando Análise e Desenvolvimento De Sistemas.
-- ⚡ Fun fact: Fã Número um de 🥔.
 
 <hr/>
 
