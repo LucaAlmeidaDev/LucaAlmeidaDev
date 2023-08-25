@@ -15,6 +15,7 @@
   <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
   <img width="36px" height="36px" src="https://camo.githubusercontent.com/73ab9b9d0048d8a4b1110c1643d6b717b52ba97641dc5fe160191afe034187a4/68747470733a2f2f696d672e69636f6e73382e636f6d2f756c74726176696f6c65742f34302f3030303030302f72656163742d2d76322e706e67"/>
 </div>
 
