@@ -9,15 +9,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaAlmeidaDev&showicons=True&theme=dracula&rank_icon=github)
 
-### 💻Linguagens que eu mais utilizo:
+### 💻Linguagens e ferramentas que eu mais utilizo💻:
 
 <div> 
   <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img width="36px" height="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
   <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
   <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
+  <img width="36px" height="36px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
 
 </div>
 
