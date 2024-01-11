@@ -16,7 +16,7 @@
 <div>
   <h2 align='center'>💻Linguagens e ferramentas que eu mais utilizo💻</h2> 
   <div align='center'>
-    <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg"/>
+    <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"/>
     <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"/>
     <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"/>
     <img width="50px" height="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"/>
